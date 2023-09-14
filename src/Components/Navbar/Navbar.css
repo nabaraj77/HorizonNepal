@@ -1,0 +1,17 @@
+.navbar {
+  margin-top: 0.7rem;
+}
+.name,
+.mottoSlogan {
+  color: #66328f;
+}
+.nav {
+  display: flex;
+}
+.mottoSlogan {
+  margin-left: 5rem;
+}
+.logoHorizon {
+  height: 30px;
+  width: 30px;
+}
